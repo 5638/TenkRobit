@@ -55,7 +55,7 @@ public class RobotMap {
         
         drive.ConfigPeakPercentOutputVoltage(12, 12);
 
-        shiftSubshiftSol = new DoubleSolenoid(0, 0, 1);
+        shiftSubshiftSol = new DoubleSolenoid(0, 1);
         LiveWindow.addActuator("shiftSub", "shiftSol", shiftSubshiftSol);
         
 
