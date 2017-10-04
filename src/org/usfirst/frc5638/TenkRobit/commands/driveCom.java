@@ -10,7 +10,7 @@
 
 
 package org.usfirst.frc5638.TenkRobit.commands;
-import edu.wpi.first.wpilibj.command.Command;
+import edu.wpi.first.wpilibj.command.Command
 import org.usfirst.frc5638.TenkRobit.Robot;
 
 /**
