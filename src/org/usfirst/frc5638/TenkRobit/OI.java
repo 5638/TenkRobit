@@ -13,11 +13,8 @@ package org.usfirst.frc5638.TenkRobit;
 
 import org.usfirst.frc5638.TenkRobit.commands.*;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
-import edu.wpi.first.wpilibj.GenericHID;
 import edu.wpi.first.wpilibj.Joystick;
-import edu.wpi.first.wpilibj.XboxController;
 import edu.wpi.first.wpilibj.buttons.*;
-import org.usfirst.frc5638.TenkRobit.subsystems.*;
 
 
 /**
